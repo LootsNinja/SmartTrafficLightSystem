@@ -1,0 +1,8 @@
+main
+	USART_init
+	USART_Tx
+	__CC2DW
+		____DoICP
+	USART_init
+	USART_Tx
+interrupt

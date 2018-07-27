@@ -1,0 +1,14 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Reciever\NorOp.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Reciever\" -SP"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Transmitter\" -SP"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Again and Again\" "NorOp.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Again and Again'	 
+diagnostics: 0	125	All files Preprocessed in 31 ms	 
+diagnostics: 0	121	Compilation Started	NorOp.c
+warning: 24	1503	Result is not defined in function: 'interrupt'	NorOp.c
+diagnostics: 187	122	Compiled Successfully	NorOp.c
+diagnostics: 0	126	All files Compiled in 94 ms	 
+hint: 0	1140	Used RAM (bytes): 13 (4%)  Free RAM (bytes): 339 (96%)	Used RAM (bytes): 13 (4%)  Free RAM (bytes): 339 (96%)
+hint: 0	1140	Used ROM (program words): 462 (6%)  Free ROM (program words): 7730 (94%)	Used ROM (program words): 462 (6%)  Free ROM (program words): 7730 (94%)
+diagnostics: 0	124	Project Linked Successfully	NorOp.mcppi
+diagnostics: 0	127	Linked in 125 ms	 
+diagnostics: 0	128	Project 'NorOp.mcppi' completed: 313 ms	 
+diagnostics: 0	103	Finished successfully: 24 May 2015, 02:57:13	NorOp.mcppi

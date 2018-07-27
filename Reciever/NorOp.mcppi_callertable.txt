@@ -1,0 +1,11 @@
+main
+	USART_init
+	delay
+	emergency
+		delay
+	__CC2DW
+		____DoICP
+	USART_init
+	emergency
+		delay
+interrupt

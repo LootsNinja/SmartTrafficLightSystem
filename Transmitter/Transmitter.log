@@ -1,0 +1,14 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Transmitter\Transmitter.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\Transmitter\" -SP"C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\unidentified main\Transmitter\" "Transmitter.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\sami\Google Drive\University\PSUT\Embedded Systems\Project\NewEmbeddedCodes\unidentified main\Transmitter'	 
+diagnostics: 0	125	All files Preprocessed in 31 ms	 
+diagnostics: 0	121	Compilation Started	Transmitter.c
+warning: 14	1503	Result is not defined in function: 'interrupt'	Transmitter.c
+diagnostics: 94	122	Compiled Successfully	Transmitter.c
+diagnostics: 0	126	All files Compiled in 63 ms	 
+hint: 0	1140	Used RAM (bytes): 9 (3%)  Free RAM (bytes): 343 (97%)	Used RAM (bytes): 9 (3%)  Free RAM (bytes): 343 (97%)
+hint: 0	1140	Used ROM (program words): 160 (2%)  Free ROM (program words): 8032 (98%)	Used ROM (program words): 160 (2%)  Free ROM (program words): 8032 (98%)
+diagnostics: 0	124	Project Linked Successfully	Transmitter.mcppi
+diagnostics: 0	127	Linked in 125 ms	 
+diagnostics: 0	128	Project 'Transmitter.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 24 May 2015, 03:03:52	Transmitter.mcppi
